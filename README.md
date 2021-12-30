@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Praveen Raj B aka rider raaaj</h1>
-<h3 align="center">A passionate V4M Rider and wanderlust</h3>
+<h1 align="center">Hi 👋, I'm Praveen Raj B </h1>
+<h3 align="center">A passionate web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenrajb08&label=Profile%20views&color=0e75b6&style=flat" alt="praveenrajb08" /> </p>
 
