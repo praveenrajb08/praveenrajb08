@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenrajb08&label=Profile%20views&color=0e75b6&style=flat" alt="praveenrajb08" /> </p>
 
-- 🔭 I’m currently working on [Weather Application](https://weather-bot.netlify.app/)
+- 🔭 I’m currently working on **Software development**
 
 - 🌱 I’m currently learning **React Js**
 
@@ -21,5 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenrajb08&show_icons=true&locale=en&theme=dark" alt="praveenrajb08" /></p>
 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenrajb08&&theme=dark" alt="praveenrajb08" /></p>
+
 </div>
